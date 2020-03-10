@@ -1,0 +1,11 @@
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\bin\Debug\Calculator.Library.dll
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\bin\Debug\Calculator.Library.pdb
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\obj\Debug\Calculator.Library.Tests.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\obj\Debug\Calculator.Library.Tests.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\obj\Debug\Calculator.Library.Tests.csproj.CopyComplete
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+C:\DevGit\Unit-Testing\Calculator\Calculator.Test\obj\Debug\Calculator.Test.pdb
