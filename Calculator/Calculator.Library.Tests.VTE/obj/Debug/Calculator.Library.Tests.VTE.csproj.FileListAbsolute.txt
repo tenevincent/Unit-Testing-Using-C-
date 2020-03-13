@@ -10,7 +10,6 @@ C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\bin\Debug\Calcula
 C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\obj\Debug\Calculator.Library.Tests.VTE.csprojAssemblyReference.cache
-C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\obj\Debug\Calculator.Library.Tests.VTE.csproj.CoreCompileInputs.cache
 C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\obj\Debug\Calculator.Library.Tests.VTE.csproj.CopyComplete
 C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\obj\Debug\Calculator.Library.Tests.VTE.dll
 C:\DevGit\Unit-Testing\Calculator\Calculator.Library.Tests.VTE\obj\Debug\Calculator.Library.Tests.VTE.pdb

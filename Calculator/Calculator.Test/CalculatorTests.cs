@@ -63,5 +63,11 @@ namespace Calculator.Library.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod()]
+        public void DivideTest()
+        {
+            Assert.Fail();
+        }
     }
 }

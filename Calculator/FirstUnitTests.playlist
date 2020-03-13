@@ -1,0 +1,4 @@
+<Playlist Version="1.0">
+	<Add Test="Calculator.Library.Tests.VTE.CalculatorTest.Divide_PositiveNumbers_ReturnsPositiveQuotient" />
+	<Add Test="Calculator.Library.Tests.VTE.CalculatorTest.Divide_NegativeNumbers_ReturnsPositiveQuotient" />
+</Playlist>

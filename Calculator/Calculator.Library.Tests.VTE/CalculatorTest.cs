@@ -22,7 +22,7 @@ namespace Calculator.Library.Tests.VTE
         }
 
         [TestMethod]
-        [TestCategory("Calculator")]
+        [TestCategory("Calculator_VTE")]
         [TestProperty("Test Group", "Security")]
         [Priority(1)]
         public void Divide_PositiveNumbers_ReturnsPositiveQuotient()
@@ -40,9 +40,9 @@ namespace Calculator.Library.Tests.VTE
         }
 
         [TestMethod]
-        [TestCategory("Calculator")]
+        [TestCategory("Calculator_VTE")]
         [TestProperty("Test Group", "Security")]
-        [Owner("Venkat")]
+        [Owner("Tene")]
         [Priority(1)]
         public void Divide_PositiveNumeratorAndNegativeDenominator_ReturnsNegativeQuotient()
         {
@@ -59,9 +59,9 @@ namespace Calculator.Library.Tests.VTE
         }
 
         [TestMethod]
-        [TestCategory("Calculator")]
+        [TestCategory("Calculator_VTE")]
         [TestProperty("Test Group", "Performance")]
-        [Owner("Venkat")]
+        [Owner("Tene")]
         [Priority(1)]
         public void Divide_NegativeNumbers_ReturnsPositiveQuotient()
         {

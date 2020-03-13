@@ -1,0 +1,12 @@
+C:\DevGit\Unit-Testing\Calculator\Calculator.Library\bin\Debug\Calculator.Library.dll
+C:\DevGit\Unit-Testing\Calculator\Calculator.Library\bin\Debug\Calculator.Library.pdb
+C:\DevGit\Unit-Testing\Calculator\Calculator.Library\obj\Debug\Calculator.Library.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing\Calculator\Calculator.Library\obj\Debug\Calculator.Library.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing\Calculator\Calculator.Library\obj\Debug\Calculator.Library.dll
+C:\DevGit\Unit-Testing\Calculator\Calculator.Library\obj\Debug\Calculator.Library.pdb
+C:\DevGit\Unit-Testing\Calculator2\Calculator.Library\bin\Debug\Calculator.Library.dll
+C:\DevGit\Unit-Testing\Calculator2\Calculator.Library\bin\Debug\Calculator.Library.pdb
+C:\DevGit\Unit-Testing\Calculator2\Calculator.Library\obj\Debug\Calculator.Library.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing\Calculator2\Calculator.Library\obj\Debug\Calculator.Library.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing\Calculator2\Calculator.Library\obj\Debug\Calculator.Library.dll
+C:\DevGit\Unit-Testing\Calculator2\Calculator.Library\obj\Debug\Calculator.Library.pdb
