@@ -1,0 +1,14 @@
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\DataDrivenApplication.Test.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\DataDrivenApplication.Test.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\DataDrivenApplication.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\DataDrivenApplication.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\DataDrivenApplication.Test.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\DataDrivenApplication.Test.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\DataDrivenApplication.Test.csproj.CopyComplete
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\DataDrivenApplication.Test.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\DataDrivenApplication.Test.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\Employees.xml
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\Employees.csv
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\DataDrivenApplication.Test.dll.config

@@ -1,0 +1,7 @@
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Factorial\bin\Debug\Factorial.exe.config
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Factorial\bin\Debug\Factorial.exe
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Factorial\bin\Debug\Factorial.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Factorial\obj\Debug\Factorial.exe
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Factorial\obj\Debug\Factorial.pdb

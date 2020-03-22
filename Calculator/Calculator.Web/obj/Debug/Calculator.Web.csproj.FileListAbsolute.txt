@@ -6,3 +6,12 @@ C:\DevGit\Unit-Testing\Calculator\Calculator.Web\obj\Debug\Calculator.Web.csproj
 C:\DevGit\Unit-Testing\Calculator\Calculator.Web\obj\Debug\Calculator.Web.csproj.CopyComplete
 C:\DevGit\Unit-Testing\Calculator\Calculator.Web\obj\Debug\Calculator.Web.dll
 C:\DevGit\Unit-Testing\Calculator\Calculator.Web\obj\Debug\Calculator.Web.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\bin\Calculator.Web.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\bin\Calculator.Web.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\bin\Calculator.Library.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\bin\Calculator.Library.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\obj\Debug\Calculator.Web.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\obj\Debug\Calculator.Web.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\obj\Debug\Calculator.Web.csproj.CopyComplete
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\obj\Debug\Calculator.Web.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\Calculator.Web\obj\Debug\Calculator.Web.pdb

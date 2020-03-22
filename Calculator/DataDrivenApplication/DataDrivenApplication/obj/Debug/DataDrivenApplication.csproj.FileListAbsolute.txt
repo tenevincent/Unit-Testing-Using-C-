@@ -1,0 +1,6 @@
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication\bin\Debug\DataDrivenApplication.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication\bin\Debug\DataDrivenApplication.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication\obj\Debug\DataDrivenApplication.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication\obj\Debug\DataDrivenApplication.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication\obj\Debug\DataDrivenApplication.dll
+C:\DevGit\Unit-Testing-Using-CSharp\Calculator\DataDrivenApplication\DataDrivenApplication\obj\Debug\DataDrivenApplication.pdb
