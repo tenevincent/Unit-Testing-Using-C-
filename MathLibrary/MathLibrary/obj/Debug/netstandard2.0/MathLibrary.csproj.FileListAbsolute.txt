@@ -1,0 +1,8 @@
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+C:\DevGit\Unit-Testing-Using-CSharp\MathLibrary\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
