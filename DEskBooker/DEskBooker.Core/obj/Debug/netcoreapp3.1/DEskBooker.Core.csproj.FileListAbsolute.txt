@@ -1,0 +1,9 @@
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\bin\Debug\netcoreapp3.1\DEskBooker.Core.deps.json
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\bin\Debug\netcoreapp3.1\DEskBooker.Core.dll
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\bin\Debug\netcoreapp3.1\DEskBooker.Core.pdb
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.AssemblyInfoInputs.cache
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.AssemblyInfo.cs
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.dll
+C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.pdb
