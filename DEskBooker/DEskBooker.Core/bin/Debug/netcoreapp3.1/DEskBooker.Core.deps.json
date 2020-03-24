@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "DEskBooker.Core/1.0.0": {
+      "DeskBooker.Core/1.0.0": {
         "runtime": {
-          "DEskBooker.Core.dll": {}
+          "DeskBooker.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DEskBooker.Core/1.0.0": {
+    "DeskBooker.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

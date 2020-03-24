@@ -7,3 +7,11 @@ C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBo
 C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.AssemblyInfo.cs
 C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.dll
 C:\DevGit\Unit-Testing\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.pdb
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\bin\Debug\netcoreapp3.1\DEskBooker.Core.deps.json
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\bin\Debug\netcoreapp3.1\DEskBooker.Core.dll
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\bin\Debug\netcoreapp3.1\DEskBooker.Core.pdb
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.csproj.CoreCompileInputs.cache
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.AssemblyInfoInputs.cache
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.AssemblyInfo.cs
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.dll
+c:\DevGit\Unit-Testing-Using-CSharp\DEskBooker\DEskBooker.Core\obj\Debug\netcoreapp3.1\DEskBooker.Core.pdb
