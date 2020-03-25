@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zzMX0ZjtfsIyXzu9g19TFutpOIlB6rxt9hmHjr48QjKNKn8ws36K9EdpU30XLP9IwfuC28L1jQ588uQP9VxGQA==",
+  "dgSpecHash": "gGJX2Mxmkh3kYJOG0yOUvEyyB6sylcjmWaKIRV1ynZbUZ0W8WfYmqWoRh+l9t2cc+UJB9EbyvDMqqj7cIB/nIg==",
   "success": true,
-  "projectFilePath": "c:\\DevGit\\Unit-Testing-Using-CSharp\\DEskBooker\\DEskBooker.Core\\DeskBooker.Core.csproj",
+  "projectFilePath": "C:\\DevGit\\Unit-Testing\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

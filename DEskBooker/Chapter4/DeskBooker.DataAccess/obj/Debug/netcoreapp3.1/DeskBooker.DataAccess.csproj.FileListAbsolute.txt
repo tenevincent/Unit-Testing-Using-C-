@@ -1,0 +1,12 @@
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.DataAccess.deps.json
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.DataAccess.dll
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.DataAccess.pdb
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.Core.pdb
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.AssemblyInfoInputs.cache
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.AssemblyInfo.cs
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.csproj.CopyComplete
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.dll
+C:\DevGit\Unit-Testing\DeskBooker\Chapter4\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.pdb
