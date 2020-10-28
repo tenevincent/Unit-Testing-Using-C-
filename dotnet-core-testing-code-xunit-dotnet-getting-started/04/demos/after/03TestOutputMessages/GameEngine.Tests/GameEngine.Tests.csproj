@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+<<<<<<< HEAD
     <TargetFramework>netcoreapp3.1</TargetFramework>
+=======
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+>>>>>>> 1689b22737ad140a4735e9f2f1913a37d8c8848f
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.0.0" />
