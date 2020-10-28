@@ -1,0 +1,9 @@
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\bin\Debug\netstandard2.1\GameEngine.deps.json
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\bin\Debug\netstandard2.1\GameEngine.dll
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\bin\Debug\netstandard2.1\GameEngine.pdb
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfoInputs.cache
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfo.cs
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\obj\Debug\netstandard2.1\GameEngine.csproj.CoreCompileInputs.cache
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\obj\Debug\netstandard2.1\GameEngine.dll
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\obj\Debug\netstandard2.1\GameEngine.pdb
+E:\DevGit\Unit-Testing\XUnit-PL\04\before\01CategorizingTests\GameEngine\obj\Debug\netstandard2.1\GameEngine.csprojAssemblyReference.cache

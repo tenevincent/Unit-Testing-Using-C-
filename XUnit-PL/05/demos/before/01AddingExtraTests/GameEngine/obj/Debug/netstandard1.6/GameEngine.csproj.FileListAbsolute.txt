@@ -1,0 +1,8 @@
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+E:\DevGit\Unit-Testing\XUnit-PL\05\demos\before\01AddingExtraTests\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb

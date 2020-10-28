@@ -1,0 +1,9 @@
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\bin\Debug\netstandard2.1\GameEngine.deps.json
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\bin\Debug\netstandard2.1\GameEngine.dll
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\bin\Debug\netstandard2.1\GameEngine.pdb
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\obj\Debug\netstandard2.1\GameEngine.csprojAssemblyReference.cache
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\obj\Debug\netstandard2.1\GameEngine.csproj.CoreCompileInputs.cache
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfoInputs.cache
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfo.cs
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\obj\Debug\netstandard2.1\GameEngine.dll
+C:\DevGit\Unit-Testing\dotnet-core-testing-code-xunit-dotnet-getting-started\04\demos\before\04ReducingDuplicatedCode\GameEngine\obj\Debug\netstandard2.1\GameEngine.pdb

@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine.Tests\\GameEngine.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine.Tests\\GameEngine.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "projectName": "GameEngine.Tests",
+        "projectPath": "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "packagesPath": "C:\\Users\\Tene\\.nuget\\packages\\",
+        "outputPath": "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tene\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {
+              "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine\\GameEngine.csproj": {
+                "projectPath": "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine\\GameEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine\\GameEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine\\GameEngine.csproj",
+        "projectName": "GameEngine",
+        "projectPath": "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine\\GameEngine.csproj",
+        "packagesPath": "C:\\Users\\Tene\\.nuget\\packages\\",
+        "outputPath": "C:\\DevGit\\Unit-Testing\\dotnet-core-testing-code-xunit-dotnet-getting-started\\04\\demos\\after\\04ReducingDuplicatedCode\\GameEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tene\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
