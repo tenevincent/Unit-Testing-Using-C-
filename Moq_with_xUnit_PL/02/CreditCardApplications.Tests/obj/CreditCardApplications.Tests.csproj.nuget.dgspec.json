@@ -51,7 +51,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.0.1, )"
+              "version": "[16.7.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -59,13 +59,19 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[2.4.1, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[2.4.3, )"
             }
           },
           "imports": [

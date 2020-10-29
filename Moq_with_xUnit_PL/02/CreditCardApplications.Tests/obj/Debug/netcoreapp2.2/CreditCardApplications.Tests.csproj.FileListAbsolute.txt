@@ -9,10 +9,12 @@ E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\bin\Deb
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\bin\Debug\netcoreapp2.2\CreditCardApplications.dll
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\bin\Debug\netcoreapp2.2\CreditCardApplications.pdb
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.csprojAssemblyReference.cache
-E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.csproj.CoreCompileInputs.cache
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.AssemblyInfoInputs.cache
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.AssemblyInfo.cs
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.csproj.CopyComplete
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.dll
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.pdb
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.genruntimeconfig.cache
+E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\bin\Debug\netcoreapp2.2\testhost.exe
+E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\bin\Debug\netcoreapp2.2\testhost.dll
+E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications.Tests\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.csproj.CoreCompileInputs.cache

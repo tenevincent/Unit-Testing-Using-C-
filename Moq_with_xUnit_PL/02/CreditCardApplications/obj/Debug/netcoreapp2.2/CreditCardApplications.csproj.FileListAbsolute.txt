@@ -6,4 +6,3 @@ E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications\obj\Debug\net
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications\obj\Debug\netcoreapp2.2\CreditCardApplications.AssemblyInfo.cs
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications\obj\Debug\netcoreapp2.2\CreditCardApplications.dll
 E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications\obj\Debug\netcoreapp2.2\CreditCardApplications.pdb
-E:\DevGit\Unit-Testing\Moq_with_xUnit_PL\02\CreditCardApplications\obj\Debug\netcoreapp2.2\CreditCardApplications.csprojAssemblyReference.cache
