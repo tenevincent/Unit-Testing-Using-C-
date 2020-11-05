@@ -15,8 +15,8 @@ namespace RunNotePad
         {
             WindowsDriver<WindowsElement> notePadSession;
             AppiumOptions desiredCapabilities = new AppiumOptions();
-            desiredCapabilities
-                .AddAdditionalCapability("app", @"C:\Windows\System32\notepad.exe");
+            desiredCapabilities.AddAdditionalCapability("app", @"C:\Program Files (x86)\Notepad++\notepad++.exe");
+
 
             notePadSession = new WindowsDriver<WindowsElement>(new Uri("http://127.0.0.1:4723"), desiredCapabilities);
 
@@ -28,13 +28,17 @@ namespace RunNotePad
 
             Console.WriteLine($"Application title: {notePadSession.Title}");
 
+            Task.Delay(1000);
+
             notePadSession.Manage().Window.Maximize();
 
             var screenShot = notePadSession.GetScreenshot();
             screenShot.SaveAsFile($".\\Screenshot_VTE{DateTime.Now.ToString("ddMMyyyyhhmmss")}.png", OpenQA.Selenium.ScreenshotImageFormat.Png);
 
             notePadSession.Quit();
-
         }
+
+
+
     }
 }
