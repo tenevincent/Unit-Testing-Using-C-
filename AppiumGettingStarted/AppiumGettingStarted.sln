@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumGettingStarted", "AppiumGettingStarted\AppiumGettingStarted.csproj", "{2CB61F3D-C267-478B-81DF-68EF3C796D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumGettingStarted.Tests", "AppiumGettingStarted.Tests\AppiumGettingStarted.Tests.csproj", "{42900B0B-048F-48B1-BED8-ADF5B4E0D08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB61F3D-C267-478B-81DF-68EF3C796D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB61F3D-C267-478B-81DF-68EF3C796D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB61F3D-C267-478B-81DF-68EF3C796D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB61F3D-C267-478B-81DF-68EF3C796D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42900B0B-048F-48B1-BED8-ADF5B4E0D08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42900B0B-048F-48B1-BED8-ADF5B4E0D08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42900B0B-048F-48B1-BED8-ADF5B4E0D08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42900B0B-048F-48B1-BED8-ADF5B4E0D08D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC55098-4E50-4720-9CEE-0A6D9D09040E}
+	EndGlobalSection
+EndGlobal

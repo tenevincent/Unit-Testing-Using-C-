@@ -26,13 +26,13 @@ namespace DemoCode.Tests
             var fixture = new Fixture();
 
 
-            //fixture.Inject(new FlightDetails
-            //{
-            //    DepartureAirportCode = "PER",
-            //    ArrivalAirportCode = "LHR",
-            //    FlightDuration = TimeSpan.FromHours(10),
-            //    AirlineName = "Awesome Aero"
-            //});
+            fixture.Inject(new FlightDetails
+            {
+                DepartureAirportCode = "PER",
+                ArrivalAirportCode = "LHR",
+                FlightDuration = TimeSpan.FromHours(10),
+                AirlineName = "Awesome Aero"
+            });
 
 
             var flight1 = fixture.Create<FlightDetails>();
